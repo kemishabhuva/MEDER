@@ -1080,8 +1080,6 @@ li a {
         width: 300px;
     }
 
-    .work-page{
-    }
 
     @keyframes shrink {
         from {
@@ -1093,12 +1091,14 @@ li a {
         }
     }
 
-    @media (max-width: 492px){
+    
 
-        .about{
-            margin-top: 20%;
-        }
-        
+}
+
+@media (max-width: 992px){
+
+    .about{
+        margin-top: 22%;
     }
-
+    
 }
